@@ -1,16 +1,16 @@
 <table>
 	<tr>
 	    <th >Series</th>
-        <th >机器名称</th>
-        <th >CE证书</th>
-        <th >FCC证书</th>
+        <th >Miner/Watch/PSU</th>
+        <th >CE-Document</th>
+        <th >FCC-Document</th>
 	</tr >
 	<tr>
         <td rowspan="20">BOX</td>
 	    <td >CK BOX</td>
-	    <td rowspan="5"><a href="https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2h9egr22oapgk4s&utm_medium=im_card&utm_scene=team_space&utm_source=im">请至钉钉文档查看附件《ENS2110150002E00101C.pdf》</a>
+	    <td rowspan="5"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/ENS2110150002E00101C.pdf>ENS2110150002E00101C.pdf</a>
         </td>
-	    <td rowspan="5"><a href="https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2h9egr22oapgk4s&utm_medium=im_card&utm_scene=team_space&utm_source=im">请至钉钉文档查看附件《ENS2110150002E00301C.pdf》</a></td>  
+	    <td rowspan="5"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/FCC/ENS2110150002E00301C.pdf>ENS2110150002E00301C.pdf</a></td>  
 	</tr >
 	<tr>
 	    <td>HS BOX</td>
