@@ -10,7 +10,7 @@
 	    <td >CK BOX</td>
 	    <td rowspan="5"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/ENS2110150002E00101C.pdf>ENS2110150002E00101C.pdf</a>
         </td>
-	    <td rowspan="5"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/FCC/ENS2110150002E00301C.pdf>ENS2110150002E00301C.pdf</a></td>  
+	    <td rowspan="5"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/FCC/ENS2110150002E00301C.pdf>ENS2110150002E00301C.pdf</a></td>  
 	</tr >
 	<tr>
 	    <td>HS BOX</td>
