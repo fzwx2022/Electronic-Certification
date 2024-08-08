@@ -5,7 +5,7 @@
 Here you can download updated Electronic-Certification Files for goldshell miners.
 
 
-|  ### SERIES  |  ### Miner/Watch/PSU  |  ### CE  |  ### FCC |
+|   SERIES  |   Miner/Watch/PSU  |   CE  | FCC |
 | --- | --- | --- | --- |
 |  BOX  |  CK BOX  |  [ENS2110150002E00101C](https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/master/CE/ENS2110150002E00101C.pdf)  |  [ENS2110150002E00301C](https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/master/FCC/NS2110150002E00301C.pdf)  |
 |  |  HS BOX  |
@@ -52,7 +52,6 @@ Here you can download updated Electronic-Certification Files for goldshell miner
 |  PSU  |  300W  |  [SA21070519L00101.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi3984nlw8r5hm1lk&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
 |  |  1200W  |  [AOC RKSA211208001-01.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi39hiaw3mjus7ik&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
 |  |  2800W  |  [ENS2111250126E00101C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi48hpqsk1ced8x3ra&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
-=======
-=======
+
 
 
