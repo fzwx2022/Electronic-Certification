@@ -2,105 +2,55 @@
 
 ## Introduction
 
-
 Here you can download updated Electronic-Certification Files for goldshell miners.
 
-
-|         SERIES     |                        Miner/Watch/PSU                        |                                                                       CE                                                                       |FCC | 
-|:------------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  BOX |     CK BOX      |    [ENS2110150002E00101C](https://raw.githubusercontent.com/fzwx2022/main/CE/ENS2110150002E00101C.pdf)    | [ENS2110150002E00301C](https://raw.githubusercontent.com/fzwx2022/main/FCC/ENS2110150002E00301C.pdf) |
-|   BOX  |       [Intro](https://www.goldshell.com/minidoge%e2%85%b1/)        |    [firmware-Goldshell-MiniDOGEⅡ-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGEⅡ/firmware-Goldshell-MiniDOGEⅡ-2.2.0.cpb)    | 
-|  BOX |       TBD       |    [firmware-Goldshell-MiniDOGEⅢ-2.2.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGEⅢ/firmware-Goldshell-MiniDOGEⅢ-2.2.0.cpb)    |  Applicable to miners with SN codes starting with DOG3|
-|   MiniDOGEⅢ  |       [Intro](https://www.goldshell.com/minidogeiii/)        |    [firmware-Goldshell-MiniDOGEⅢ-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGEⅢ/firmware-Goldshell-MiniDOGEⅢ-2.2.3.cpb)    |  Support benchmark self-test function,Applicable to miners with SN codes starting with LP01|
-| MiniDOGE Pro |     [Intro](https://www.goldshell.com/minidoge-pro/ )      | [firmware-Goldshell-MiniDOGEPro-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-MiniDOGEPro/firmware-Goldshell-MiniDOGEPro-2.2.8.cpb) | 
-|      x5      |          [Intro]( https://www.goldshell.com/x5/ )          |          [firmware-Goldshell-x5-2.1.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-x5/firmware-Goldshell-x5-2.1.5.cpb)          | 
-|     x6s      |          [Intro]( https://www.goldshell.com/x6s-litecoin-miner/ )          |        [firmware-Goldshell-x6s-2.0.15.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-x6s/firmware-Goldshell-x6s-2.0.15.cpb)        | 
-|     LT5      |  [Intro]( https://www.goldshell.com/lt5-doge-ltc-miner/ )  |         [firmware-Goldshell-LT5-2.1.0.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-LT5/firmware-Goldshell-LT5-2.1.0.cpb)         | 
-|   LT5 Pro    | [Intro](https://www.goldshell.com/lt5pro-doge-ltc-miner/ ) |      [firmware-Goldshell-LT5Pro-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-LT5Pro/firmware-Goldshell-LT5Pro-2.2.7.cpb)      | 
-|     LT6      |          [Intro](https://www.goldshell.com/lt6/ )          |         [firmware-Goldshell-LT6-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-LT6/firmware-Goldshell-LT6-2.2.5.cpb)         | 
-|   LT Lite    |        [Intro](https://www.goldshell.com/ltlite/ )        |      [firmware-Goldshell-LTLITE-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-LTLITE/firmware-Goldshell-LTLITE-2.2.8.cpb)      | 
-|     LT6-SE      |      TBD     |         [firmware-Goldshell-LT6SE-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Dogecoin-%26-Litecoin-Miner/Goldshell-LT6SE/firmware-Goldshell-LT6SE-2.2.8.cpb)         | Support low power consumption, idle mode;Support GoldshellZone APP|
-
-
-## Handshake & Siacoin Miner
-
-|         |                                            Introduction                                            |                                                                 Download                                                                  | features | 
-|:-------:|:--------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-|   HS6   |                              [Intro](https://www.goldshell.com/goldshell-hs6/ )                    |   [firmware-Goldshell-HS6-2.2.8.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HS6/firmware-Goldshell-HS6-2.2.8.cpb)   | 
-|   HS6-SE   |                              [Intro](https://www.goldshell.com/hs6-se/)                    |   [firmware-Goldshell-HS6SE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HS6SE/firmware-Goldshell-HS6SE-2.2.7.cpb)   | 
-|   HS5   |                              [Intro](https://www.goldshell.com/hs5/ )                              |   [firmware-Goldshell-HS5-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HS5/firmware-Goldshell-HS5-2.2.5.cpb)   | 
-|   HS3   |                        [Intro](https://www.goldshell.com/hs3-miner-intro/)                         |   [firmware-Goldshell-HS3-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HS3/firmware-Goldshell-HS3-2.2.7.cpb)   | 
-| HS3-SE  |               [Intro](https://www.goldshell.com/hs3-se-goldshelle-handshake-miner/)                | [firmware-Goldshell-HS3SE-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HS3SE/firmware-Goldshell-HS3SE-2.2.4.cpb) | 
-| HS-BOX  |                             [Intro](https://www.goldshell.com/hsbox/)                              | [firmware-Goldshell-HSBox-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HSBox/firmware-Goldshell-HSBox-2.2.6.cpb) | 
-| HS Lite |                             [Intro](https://www.goldshell.com/hslite/)                              | [firmware-Goldshell-HSLITE-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HSLITE/firmware-Goldshell-HSLITE-2.2.5.cpb) | 
-| HS-BOXⅡ  |                             [Intro](https://www.goldshell.com/goldshell-hs-box-ii/)                              | [firmware-Goldshell-HSBoxⅡ-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Handshake-%26-Siacoin-Miner/Goldshell-HSBoxⅡ/firmware-Goldshell-HSBoxⅡ-2.2.6.cpb) | Support idle mode;Support GoldenshellZone APP|
-
-
-## Siacoin Miner
-|     |                Introduction                |  Download | features | 
-|  :----:  |:------------------------------------------:| :----:  |:----:  |
-| SC-BOX  | [Intro](https://www.goldshell.com/scbox/ ) |  [firmware-Goldshell-SCBox-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Siacoin-Miner/Goldshell-SCBox/firmware-Goldshell-SCBox-2.2.5.cpb)  | 
-| SC-BOXⅡ  | [Intro](https://www.goldshell.com/scbox%e2%85%b1/) |  [firmware-Goldshell-SCBoxⅡ-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Siacoin-Miner/Goldshell-SCBoxⅡ/firmware-Goldshell-SCBoxⅡ-2.2.2.cpb)  | 
-|  SC6-SE  | [Intro](https://www.goldshell.com/sc6-se/) |   [firmware-Goldshell-SC6SE-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/Siacoin-Miner/Goldshell-SC6SE/firmware-Goldshell-SC6SE-2.2.2.cpb)   |
-
-## CKB Miner
-
-  
-
-|         |                Introduction                 |                                                                   Download                                                                    | features | 
-|:-------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
-|   CK5   |   [Intro](https://www.goldshell.com/ck5/)   |     [firmware-Goldshell-CK5-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/CKB-Miner/Goldshell-CK5/firmware-Goldshell-CK5-2.2.6.cpb)     | 
-|   CK6   |  [Intro](https://www.goldshell.com/ck6/ )   |     [firmware-Goldshell-CK6-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/CKB-Miner/Goldshell-CK6/firmware-Goldshell-CK6-2.2.7.cpb)     | 
-| CK6-SE  | [Intro](https://www.goldshell.com/ck6-se/ ) |   [firmware-Goldshell-CK6SE-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/CKB-Miner/Goldshell-CK6SE/firmware-Goldshell-CK6SE-2.2.6.cpb)   | 
-| CK-BOX  | [Intro](https://www.goldshell.com/ckbox/ )  |   [firmware-Goldshell-CKBox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/CKB-Miner/Goldshell-CKBox/firmware-Goldshell-CKBox-2.2.7.cpb)   | 
-| CK-CKBoxⅡ  | [Intro](https://www.goldshell.com/ckbox%e2%85%b1/)  |   [firmware-Goldshell-CKBoxⅡ-2.2.2.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/CKB-Miner/Goldshell-CKBoxⅡ/firmware-Goldshell-CKBoxⅡ-2.2.2.cpb)   | 
-| CK Lite | [Intro](https://www.goldshell.com/cklite/ ) | [firmware-Goldshell-CKLITE-2.2.11.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/CKB-Miner/Goldshell-CKLITE/firmware-Goldshell-CKLITE-2.2.11.cpb) | 
-
-
-## KDA Miner
-
-|            |                     Introduction                      |                                                                    Download                                                                     | features | 
-|:----------:|:-----------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-|    KD2     | [Intro](https://www.goldshell.com/kd2-kadena-miner/ ) |      [firmware-Goldshell-KD2-2.1.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KD2/firmware-Goldshell-KD2-2.1.1.cpb)      | 
-|  KD Lite   |      [Intro](https://www.goldshell.com/kdlite/ )      |   [firmware-Goldshell-KDLITE-2.2.11.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KDLITE/firmware-Goldshell-KDLITE-2.2.11.cpb)   | 
-|    KD5     |       [Intro](https://www.goldshell.com/kd5/ )        |      [firmware-Goldshell-KD5-2.2.3.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KD5/firmware-Goldshell-KD5-2.2.3.cpb)      | 
-|    KD5-Pro     |      TBD         |      [firmware-Goldshell-KD5Pro-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KD5Pro/firmware-Goldshell-KD5Pro-2.2.4.cpb)      | 
-|    KD6     |       [Intro](https://www.goldshell.com/kd6/ )        |     [firmware-Goldshell-KD6-2.2.12.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KD6/firmware-Goldshell-KD6-2.2.12.cpb)     | 
-|   KD6SE    | [Intro](https://www.goldshell.com/goldshell-kd6se/ )  |    [firmware-Goldshell-KD6SE-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KD6SE/firmware-Goldshell-KD6SE-2.2.7.cpb)    | 
-|   KD-Max   |      [Intro](https://www.goldshell.com/kdmax/ )       |    [firmware-Goldshell-KDMAX-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KDMAX/firmware-Goldshell-KDMAX-2.2.4.cpb)    | 
-|   KD-BOX   |      [Intro](https://www.goldshell.com/kdbox/ )       |    [firmware-Goldshell-KDBox-2.2.4.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KDBox/firmware-Goldshell-KDBox-2.2.4.cpb)    |
-| KD-BOX-Pro |    [Intro](https://www.goldshell.com/kdbox-pro/ )     | [firmware-Goldshell-KDBoxPro-2.2.6.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KDBoxPro/firmware-Goldshell-KDBoxPro-2.2.6.cpb) |
-|   KD-BOXⅡ   |      [Intro](https://www.goldshell.com/kdbox%e2%85%b1/ )       |    [firmware-Goldshell-KDBoxⅡ-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KDA-Miner/Goldshell-KDBoxⅡ/firmware-Goldshell-KDBoxⅡ-2.2.7.cpb)    |
- 
-  
-## LBC Miner
-
-|         |  Introduction |  Download | features | 
-|:-------:| :----: | :----:  |:----:  |
-| LB-BOX  | [Intro](https://www.goldshell.com/lbbox/) | [firmware-Goldshell-LBBox-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/LBC-Miner/Goldshell-LBBox/firmware-Goldshell-LBBox-2.2.5.cpb)| 
-| LB Lite | [Intro](https://www.goldshell.com/lb_lite/) | [firmware-Goldshell-LBLITE-2.2.5.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/LBC-Miner/Goldshell-LBLITE/firmware-Goldshell-LBLITE-2.2.5.cpb)| Support idle mode;Support GoldenshellZone APP|
-
-## STC Miner
-
-|     |  Introduction |  Download | features | 
-|  :----:  | :----: | :----:  |:----:  |
-| STC-BOX  | TBD | [firmware-Goldshell-STCBox-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/STC-Miner/firmware-Goldshell-STCBox-2.2.1.cpb)| 
-
-## ALPH Miner
-
-|     |  Introduction |  Download | features | 
-|  :----:  | :----: | :----:  |:----:  |
-| AL-BOX |[Intro](https://www.goldshell.com/goldshell-al-box/) | [firmware-Goldshell-ALBox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/Goldshell-ALBox/firmware-Goldshell-ALBox-2.2.7.cpb)| Support benchmark self-test function| 
-| AL-BOXⅡ |[Intro](https://www.goldshell.com/goldshell-al-box-ii/) | [firmware-Goldshell-ALBoxⅡ-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/ALPH-Miner/Goldshell-ALBoxⅡ/firmware-Goldshell-ALBoxⅡ-2.2.1.cpb)|Add KRYPTEX default mining pool addition,Optimize system control|
-
-## KAS Miner
-
-|     |  Introduction |  Download | features | 
-|  :----:  | :----: | :----:  |:----:  |
-| KA-BOX  |[Intro](https://www.goldshell.com/goldshell-ka-box/) | [firmware-Goldshell-KABox-2.2.7.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABox/firmware-Goldshell-KABox-2.2.7.cpb)| Support benchmark self-test function| 
-| KA-BOX-Pro  |[Intro](https://www.goldshell.com/goldshell-ka-box-pro/) | [firmware-Goldshell-KABoxPro-2.2.1.cpb](https://raw.githubusercontent.com/goldshellminer/firmware/master/KAS-Miner/Goldshell-KABoxPro/firmware-Goldshell-KABoxPro-2.2.1.cpb)| Support benchmark self-test function| 
-
-
-
-
+<<<<<<< HEAD
+|  ### SERIES  |  ### Miner/Watch/PSU  |  ### CE  |  ### FCC |
+| --- | --- | --- | --- |
+|  BOX  |  CK BOX  |  [ENS2110150002E00101C](https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/master/CE/ENS2110150002E00101C.pdf)  |  [ENS2110150002E00301C](https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/master/FCC/NS2110150002E00301C.pdf)  |
+|  |  HS BOX  |
+|  |  KD BOX  |
+|  |  SC BOX  |
+|  |  LB BOX  |
+|  |  MINI DOGE  |  [ENS2108190193E00101C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2j1injrsbbsliu3&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  [ENS2110130001E00101C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2j2vvkuwi5fqdiqa&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  MINI DOGE Pro  |  [ENS2204080110E00701C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2mcua7bacrlijpwu&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  [ENS2204080110E00901C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2megcmffellh2qvn&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  KD BOX Pro  |
+|  |  KD BOX II  |  [ENS2405200314S00201C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi3mfdvsgqj67oxv4&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
+|  |  CK BOX II  |
+|  |  HS BOX II  |
+|  |  LB BOX II  |
+|  |  SC BOX II  |
+|  |  MINI DOGE II  |
+|  |  MINI DOGE III  |
+|  |  KA BOX  |
+|  |  AL BOX  |
+|  |  AL BOX II  |
+|  |  KA BOX PRO  |  [ENS2405230041E00301C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2yiukw639dyu82id&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  [ENS2405230041E00201C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2ymld418qa0jaem&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  MINI DOGE III PLUS  |  [ENS2407040061S00101C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi3mh5rqbzqw8b2gu&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |   |
+|  LITE  |  LT LITE  |  [ENS2204080110E00101C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi353f0p3om8slu2u&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  [ENS2204080110E00301C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi35etomz9kpa988sn&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  KD LITE  |
+|  |  CK LITE  |
+|  |  HS LITE  |
+|  |  LB LITE  |
+|  MAX  |  KD5  |  [ES210409021E.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi292gdqlfmyqpmu7&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  [ES210409023E.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi293r3h0sx4kefq8u&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  CK5  |
+|  |  HS5  |
+|  |  SC5  |
+|  |  SC6  |  [NS2111160004E00101C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi28qa4kxikszvd0dp&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  [NS2111160004E00301C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2kqbz4ln0zfux3c2&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  KD6  |
+|  |  CK6  |
+|  |  HS6  |
+|  |  KD6 SE  |  [ENS2204080110E00401C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2cfa0z0ho2b3z7xi&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  [ENS2204080110E00601C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi2cjv9y41790emhf&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  LT6  |
+|  |  LT6 SE  |
+|  |  KD MAX  |
+|  |  CK MAX  |
+|  |  HS MAX  |
+|  Accessory  |  GS WATCH  |  [LCSA08223118EA.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi6fhhbjazwfl5bd2&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
+|  |  |  [LCSA08223118EB.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi6fftzjvei6xng74&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  |  |  [fLCSA09063025E.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi6fdw2v6qzmrz76no&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |
+|  PSU  |  300W  |  [SA21070519L00101.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi3984nlw8r5hm1lk&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
+|  |  1200W  |  [AOC RKSA211208001-01.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi39hiaw3mjus7ik&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
+|  |  2800W  |  [ENS2111250126E00101C.pdf](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYPQ54ovfNz5gvBmW1DK0g6l?cid=623923515:2224537345&corpId=ding9f16af4ffdc38b1e35c2f4657eb6378f&doc_type=wiki_doc&iframeQuery=anchorId%3DX02lzi48hpqsk1ced8x3ra&utm_medium=im_card&utm_scene=team_space&utm_source=im)  |  /  |
+=======
 
