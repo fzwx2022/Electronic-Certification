@@ -1,22 +1,9 @@
-#  Goldshell Miner Firmware 
+#  Goldshell Miner Electronic-Certification Files
 
 ## Introduction
 
 
-Here you can download updated firmware version for goldshell miners.
-
-
-
-**Guide**: [Firmware Upgrade Guide](https://www.goldshell.com/upgrade-firmware/)
-
-**Cloud Supported** (version 2.2.0 or later): [Goldshell Hub](https://hub.goldshell.com/login)
-
-
-*No need to upgrade the firmware if everything is fine.
-
-***Warning! Do not turn off the power and operate the miner when starting the firmware upgrade**  
-
-## Dogecoin & Litecoin Miner
+Here you can download updated Electronic-Certification Files for goldshell miners.
 
 
 |              |                        Introduction                        |                                                                       Download                                                                        |features | 
