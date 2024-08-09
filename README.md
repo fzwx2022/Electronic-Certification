@@ -169,19 +169,19 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr>
     <tr>
         <td rowspan="3" style="text-align: center; vertical-align: middle;">PSU</td>
-	    <td style="text-align: center; vertical-align: middle; width: 150px">300 W</td>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">PSU-300W</td>
 	    <td><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/SA21070519L00101.pdf>SA21070519L00101.pdf</a>
         </td>
 	    <td>/</td>  
 	</tr >
     <tr>
-	    <td style="text-align: center; vertical-align: middle; width: 150px">1200 W</td>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">PSU-1200W</td>
 	    <td><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/AOC-RKSA211208001-01.pdf>AOC-RKSA211208001-01.pdf</a>
         </td>
 	    <td>/</td>  
 	</tr >
     <tr>
-	    <td style="text-align: center; vertical-align: middle; width: 150px">2800 W</td>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">PSU-2800W</td>
 	    <td><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/ENS2111250126E00101C.pdf>ENS2111250126E00101C.pdf</a>
         </td>
 	    <td>/</td>  
