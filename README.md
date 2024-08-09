@@ -1,6 +1,6 @@
 # Goldshell Miner Electronic-Certification Files
 ## Introduction
-Here you can download updated Electronic-Certification Files for goldshell miners/watch/PSU.
+Here you can download updated Electronic-Certification Files for goldshell Miners/Watch/PSU.
 
 <table>
 	<tr>
