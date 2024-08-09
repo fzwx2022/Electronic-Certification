@@ -1,11 +1,11 @@
-# Goldshell Miner Electronic-Certification Files
+# Goldshell Miner Electronic-Certification Documents
 ## Introduction
-Here you can download updated Electronic-Certification Files for goldshell Miners/Watch/PSU.
+Here you can download updated Electronic-Certification Documents for goldshell Miner/Watch/PSU.
 
 <table>
 	<tr>
 	    <th >Series</th>
-        <th >miners/watch/PSU</th>
+        <th >Miner/Watch/PSU</th>
         <th >CE</th>
         <th >FCC</th>
 	</tr >
