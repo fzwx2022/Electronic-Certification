@@ -35,8 +35,8 @@ Here you can download updated Electronic-Certification Files for goldshell miner
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">MINI DOGE Pro</td>
-        <td rowspan="2"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/ENS2110150002E00101C.pdf>ENS2204080110E00701C.pdf>ENS2204080110E00701C.pdf</a></td> 
-        <td rowspan="2"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/FCC/ENS2110150002E00301C.pdf>ENS2204080110E00901C.pdf>ENS2204080110E00901C.pdf</a></td> 
+        <td rowspan="2"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/CE/ENS2110150002E00101C.pdf>ENS2204080110E00701C.pdf</a></td> 
+        <td rowspan="2"><a href=https://raw.githubusercontent.com/fzwx2022/Electronic-Certification/main/FCC/ENS2110150002E00301C.pdf>ENS2204080110E00901C.pdf</a></td> 
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KD BOX Pro</td>
